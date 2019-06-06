@@ -1,0 +1,17 @@
+header{
+    background-color: whitesmoke;
+    text-align: center;
+}
+body{
+    background: url("fondo1.jpg");
+}
+
+nav{
+    display: inline;
+    background-color: blueviolet;
+}
+
+aside{
+    display:inline;
+    background-color: rebeccapurple;
+}
